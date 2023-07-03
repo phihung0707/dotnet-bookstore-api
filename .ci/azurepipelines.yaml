@@ -13,10 +13,10 @@ pool:
 resources:
   repositories:
   - repository: devops
-    endpoint: Application
+    endpoint: Training
     type: github
-    name: LocTaRND/azure-devops-template
-    ref: azuredevops
+    name: nashtech-garage/azure-devops-ci-cd
+    ref: main
 
 variables:
   - group: demo_var
