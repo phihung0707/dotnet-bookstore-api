@@ -3,7 +3,7 @@
 // Demo CI
 // Version: v1.x
 //========================================================================
-@Library('jenkins-devops-ci-cd@training') _
+@Library('jenkins-devops-ci-cd@main') _
 demoPipeline script: this
 //========================================================================
 // DO NOT MODIFY AFTER THESE LINES.
